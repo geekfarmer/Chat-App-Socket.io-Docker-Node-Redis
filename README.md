@@ -1,14 +1,11 @@
 
 # Socket.IO Chat
 
-A simple chat demo for socket.io
+A simple chat App for socket.io
 
 ## How to use
 
 ```
-$ cd socket.io
-$ npm install
-$ cd examples/chat
 $ npm install
 $ npm start
 ```
